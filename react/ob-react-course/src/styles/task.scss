@@ -1,0 +1,13 @@
+.Task-action{
+  cursor: pointer;
+}
+
+.Task-completed{
+  color: green;
+  text-decoration: line-through;
+}
+
+.Task-pending{
+  font-weight: bold;
+  color: red;
+}
